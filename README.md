@@ -22,7 +22,7 @@ Global_Sales - Total worldwide sales.<br>
 
 The script to scrape the data is available at https://github.com/GregorUT/vgchartzScrape. It is based on BeautifulSoup using Python. There are 16,598 records. 2 Columns had missing values.
 
-[Dataset]()
+[Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 **Methodology**
 - Data Importing and Understanding
@@ -31,7 +31,7 @@ The script to scrape the data is available at https://github.com/GregorUT/vgchar
 - Asking and answering interesting questions
 - Summarizing inferences and drawing conclusions
 
-[Notebook]()
+[Notebook](https://github.com/khushiyadav2022/Video-Game-Sales/blob/1fcb984bc0109c0d80c6288b224aafd340a8a132/video-game-sales-analysis.ipynb)
 
 **Conclusion**
 - The year 2009 (1431) had a higher frequency than 2008 (1428) in the game sales dataset.
