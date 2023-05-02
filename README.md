@@ -40,5 +40,3 @@ The script to scrape the data is available at https://github.com/GregorUT/vgchar
 - The total revenue from video games over 40 years was 8811.97 million.
 - Although Electronic Arts published the highest number of games, the highest sales were from Nintendo.
 - The platform with the highest game sales was PS2, and the highest game sales in a year (2008) with 678.90 million in sales.
-
-[Presentation]()
